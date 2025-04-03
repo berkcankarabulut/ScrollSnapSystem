@@ -24,8 +24,7 @@
         <li>Add the <code>ScrollSnap</code> or <code>AutoSnap</code> component to a <strong>Scroll View</strong> object.</li>
         <li>Assign <strong>Snap items</strong> (RectTransform elements).</li>
         <li>(Optional) Set up <strong>Previous/Next buttons</strong> for navigation.</li>
-    </ol>
-    <p>🎉 <strong>You're ready to go!</strong> Smooth scrolling and snapping are now working.</p>
+    </ol> 
 
 </body>
 </html>
