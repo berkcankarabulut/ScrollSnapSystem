@@ -1,0 +1,18 @@
+{
+    "name": "Project.ScrollSnapSystem.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4a468ab454d7ee84190ee8be94028add"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

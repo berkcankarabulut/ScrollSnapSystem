@@ -1,0 +1,11 @@
+{
+  "name": "com.berkcankarabulut.scrollsnapsystem",
+  "version": "1.0.0",
+  "displayName": "Scroll Snap System",
+  "description": "A modular system for managing smooth scrolling and snapping in Unity UI.",
+  "author": {
+    "name": "BerkcanKarabulut",
+    "url": "https://github.com/berkcankarabulut"
+  },
+  "dependencies": {}
+}
