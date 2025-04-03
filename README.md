@@ -24,6 +24,7 @@
         <li>Add the <code>ScrollSnap</code> or <code>AutoSnap</code> component to a <strong>Scroll View</strong> object.</li>
         <li>Assign <strong>Snap items</strong> (RectTransform elements).</li>
         <li>(Optional) Set up <strong>Previous/Next buttons</strong> for navigation.</li>
+        <li>Add a <strong>Center</strong> object under the <strong>Viewport</strong>. This determines where the snapping will align.</li>
     </ol> 
 
 </body>
