@@ -1,4 +1,5 @@
-Unity Scroll Snap System
+#Unity Scroll Snap System
+
 This project is a modular Scroll Snap system for Unity's UI, designed to manage scrolling and snapping functionality efficiently. It includes automatic scrolling, manual drag support, and button controls.
 
 🚀 Features
