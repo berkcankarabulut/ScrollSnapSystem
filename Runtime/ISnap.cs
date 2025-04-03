@@ -1,6 +1,6 @@
 using System;
 
-namespace Project.ScrollSnapSystem
+namespace Project.ScrollSnapSystem.Runtime
 {
     public interface ISnap
     {

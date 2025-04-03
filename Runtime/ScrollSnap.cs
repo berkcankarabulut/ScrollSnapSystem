@@ -2,7 +2,7 @@
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-namespace Project.ScrollSnapSystem
+namespace Project.ScrollSnapSystem.Runtime
 {
     public class ScrollSnap : Snap, IEndDragHandler, IBeginDragHandler
     {

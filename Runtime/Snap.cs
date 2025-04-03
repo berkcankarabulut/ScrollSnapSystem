@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Project.ScrollSnapSystem
+namespace Project.ScrollSnapSystem.Runtime
 {
     public abstract class Snap : MonoBehaviour, ISnap
     {
