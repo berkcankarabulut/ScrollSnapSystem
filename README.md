@@ -26,11 +26,6 @@
         <li>(Optional) Set up <strong>Previous/Next buttons</strong> for navigation.</li>
     </ol>
     <p>🎉 <strong>You're ready to go!</strong> Smooth scrolling and snapping are now working.</p>
-    <h2>🛠 Potential Improvements</h2>
-    <ul>
-        <li>📌 Using <code>SmoothDamp</code> instead of <code>Lerp</code> for even smoother motion.</li>
-        <li>📌 Making <code>SnapPositionCalculator</code> a static class to optimize memory usage.</li>
-        <li>📌 Adding <code>null</code> checks for <code>scrollPanel</code> to improve error handling.</li>
-    </ul>
+
 </body>
 </html>
