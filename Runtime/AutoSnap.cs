@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Project.ScrollSnapSystem
+namespace Project.ScrollSnapSystem.Runtime
 {
     public class AutoSnap : Snap
     {

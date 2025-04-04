@@ -1,6 +1,6 @@
 {
-    "name": "Project.ScrollSnapSystem",
-    "rootNamespace": "Project.ScrollSnapSystem",
+    "name": "Project.ScrollSnapSystem.Runtime",
+    "rootNamespace": "Project.ScrollSnapSystem.Runtime",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

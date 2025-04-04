@@ -1,6 +1,6 @@
 {
     "name": "Project.ScrollSnapSystem.Editor",
-    "rootNamespace": "",
+    "rootNamespace": "Project.ScrollSnapSystem.Editor",
     "references": [
         "GUID:4a468ab454d7ee84190ee8be94028add"
     ],
